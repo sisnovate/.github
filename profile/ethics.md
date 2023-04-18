@@ -27,3 +27,9 @@
   14.  Code of Conduct: All employees are expected to follow a code of conduct that promotes honesty, integrity, and ethical behavior. This includes refraining from any actions that could harm the company's reputation or the reputation of its customers or partners.
 
   15.  Work-Life Balance: Sisnovate Inc. recognizes the importance of work-life balance and encourages employees to take breaks, prioritize their health and well-being, and avoid working excessive hours. Managers are responsible for monitoring workloads and ensuring that employees are not overworked or overstressed.
+
+16.  Referral Policy: Sisnovate Inc. has a referral policy that outlines the process for referring new candidates for open positions. All employees must follow this policy when referring someone for a job opening.
+
+17. Only Open Positions Are Eligible: Referrals are only valid for open positions that have been officially posted by the company. Any referrals made for positions that are not open or have not been posted will not be considered.
+
+18. No Favoritism: All referrals will be evaluated based on their qualifications and fit for the position, regardless of their relationship to any current employee. The company will only hire the most qualified and suitable candidate for the position, regardless of any referral.
