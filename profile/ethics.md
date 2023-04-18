@@ -1,10 +1,10 @@
-  1.  Working Hours: The official working hours for all employees at Sisnovate Inc. are from 10:00 a.m. to 5:00 p.m. on all working days. All employees are expected to adhere to this schedule and be present at their desks during these hours.
+  1.  Working Hours: The official working hours for all team members at Sisnovate Inc. are from 10:00 a.m. to 5:00 p.m. on all working days. All members are expected to adhere to this schedule and be present at their desks during these hours.
 
-  2. No Mocking Policy: All employees are expected to maintain a respectful and professional work environment. Mocking or ridiculing colleagues, customers, or stakeholders during work hours is strictly prohibited. Any violation of this policy may result in disciplinary action, up to and including termination.
+  2. No Mocking Policy: All the team memberships and are expected to maintain a respectful and professional work environment. Mocking or ridiculing colleagues, customers, or stakeholders during work hours is strictly prohibited. Any violation of this policy may result in disciplinary action, up to and including termination.
 
-  3.  Daily Scrum Meeting: Every day at a designated time, a scrum meeting will be held for all development teams. All members of the team are expected to attend this meeting and provide updates on their progress. The scrum meeting is an essential part of the development process, and all employees must actively participate in it.
+  3.  Daily Scrum Meeting: Every day at a designated time, a scrum meeting will be held for all development teams. All members of the team are expected to attend this meeting and provide updates on their progress. The scrum meeting is an essential part of the development process, and all team members must actively participate in it.
 
-  4.  Eating Break: A half-hour eating break will be provided to all employees during the workday. Employees are free to use this time to eat, relax, or engage in other activities, as long as they do not disturb others or interfere with work.
+  4.  Eating Break: A half-hour eating break will be provided to all during the workday. Team members are free to use this time to eat, relax, or engage in other activities, as long as they do not disturb others or interfere with work.
 
   5.  CTO's Advice: All members of the development team working under the Chief Technology Officer (CTO) must follow his advice and guidance. The CTO is responsible for overseeing the technical aspects of the company's projects, and all employees must work together to achieve the company's goals.
 
